@@ -12,7 +12,7 @@
 <body>
     <h1>Halaman Home</h1>
 
-
+    <p> <a href="/about"> About</a></p>
 
     <script src="js/script.js"></script>
 </body>
